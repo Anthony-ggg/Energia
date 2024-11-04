@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pablo",
+    "apellido": "Morocho",
+    "dni": "1234567890",
+    "fechaNacimiento": "12/12/2020",
+    "sexo": "Masculino",
+    "numCelular": "0987654321",
+    "tipo": "Cedula"
+  },
+  {
+    "id": 2,
+    "nombre": "Pablo",
+    "apellido": "Morocho",
+    "dni": "1234567890",
+    "fechaNacimiento": "12/12/2020",
+    "sexo": "Masculino",
+    "numCelular": "0987654321",
+    "tipo": "Cedula"
+  },
+  {
+    "id": 3,
+    "nombre": "AnthonyDamian",
+    "apellido": "Gutierrez",
+    "dni": "11123123",
+    "fechaNacimiento": "2024-11-09",
+    "sexo": "Masculino",
+    "numCelular": "0981378122",
+    "tipo": "PASAPORTE"
+  },
+  {
+    "id": 4,
+    "nombre": "AnthonyDamian",
+    "apellido": "Gutierrez",
+    "dni": "11123123",
+    "fechaNacimiento": "2024-11-09",
+    "sexo": "Masculino",
+    "numCelular": "0981378122",
+    "tipo": "PASAPORTE"
+  }
+  
+]
